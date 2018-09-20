@@ -9,6 +9,6 @@
 
 * Создание диаграммы классов и  диаграммы пролцентов:
 
-***Диаграмма и ![Текст](https://github.com/MuhinaAlexandra/Lab2018/blob/master/2.1.txt) ***
+***Диаграмма и [Текст](https://github.com/MuhinaAlexandra/Lab2018/blob/master/2.1.txt) ***
 
 ![рисунок](https://github.com/MuhinaAlexandra/Lab2018/blob/master/2.png)
