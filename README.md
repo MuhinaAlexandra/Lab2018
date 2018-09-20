@@ -9,7 +9,10 @@
 
 * Создание диаграммы классов и  диаграммы пролцентов:
 
-***Диаграмма и [Текст](https://github.com/MuhinaAlexandra/Lab2018/blob/master/2.1.txt)***
+***Диаграмма классов и [Текст](https://github.com/MuhinaAlexandra/Lab2018/blob/master/2.1.txt)***
 
 ![рисунок](https://github.com/MuhinaAlexandra/Lab2018/blob/master/2.png)
+
+***Диаграмма процентов и [Текст](https://github.com/MuhinaAlexandra/Lab2018/blob/master/2%2C2.txt)***
+![рисунок](https://github.com/MuhinaAlexandra/Lab2018/blob/master/3.PNG)
 
