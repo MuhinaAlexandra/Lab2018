@@ -8,3 +8,5 @@
 ![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/1.png)
 
 * Создание диаграммы классов и  диаграммы пролцентов:
+
+![рисунок](https://github.com/MuhinaAlexandra/Lab2018/blob/master/2.png)
