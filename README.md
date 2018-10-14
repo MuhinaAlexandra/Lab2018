@@ -17,3 +17,7 @@
 
 ![рисунок](https://github.com/MuhinaAlexandra/Lab2018/blob/master/3.PNG)
 
+## Лабораторная 2
+
+* Coздание диаграмм в RAMUS:
+
