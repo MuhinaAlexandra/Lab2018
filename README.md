@@ -19,5 +19,20 @@
 
 ## Лабораторная 2
 
-* Coздание диаграмм в RAMUS:
+Coздание диаграмм в RAMUS:
 
+* IDEF0
+
+![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/model.png)
+
+* Plan-Do-Check
+
+![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/model2.png)
+
+* DFD
+
+![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/model3.png)
+
+* .rsf [файл](https://github.com/MuhinaAlexandra/Lab2018/blob/master/LABA2.rsf)
+
+* Диаграмма прецедентов и [текст]()
