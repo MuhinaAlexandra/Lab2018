@@ -35,4 +35,6 @@ Coздание диаграмм в RAMUS:
 
 * .rsf [файл](https://github.com/MuhinaAlexandra/Lab2018/blob/master/LABA2.rsf)
 
-* Диаграмма прецедентов и [текст]()
+* Диаграмма прецедентов и [текст](https://github.com/MuhinaAlexandra/Lab2018/blob/master/l2.txt)
+
+![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/fP6zIiH058NhdQUufD9YmGSGsQnr89tra8oxORCPcPbWuGhP2DhO28gDXRv140Fhp-eht7aZ3oGhwIrck1m-lhc7cLWdZIkNkR2Bh3YJHYv99auRkX2ZgKmMCwFB8ZtMEQAJUUQK68N6wFCkcUP006gJAZECBWU-qgf4MlLlOwvE7JbD9flD7QMPKOdBT2.png)
