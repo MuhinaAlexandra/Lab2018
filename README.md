@@ -38,3 +38,21 @@ Coздание диаграмм в RAMUS:
 * Диаграмма прецедентов и [текст](https://github.com/MuhinaAlexandra/Lab2018/blob/master/l2.txt)
 
 ![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/fP6zIiH058NhdQUufD9YmGSGsQnr89tra8oxORCPcPbWuGhP2DhO28gDXRv140Fhp-eht7aZ3oGhwIrck1m-lhc7cLWdZIkNkR2Bh3YJHYv99auRkX2ZgKmMCwFB8ZtMEQAJUUQK68N6wFCkcUP006gJAZECBWU-qgf4MlLlOwvE7JbD9flD7QMPKOdBT2.png)
+
+## Лабораторная 1
+
+Coздание диаграмм в RAMUS(DFD):
+
+![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/model1_lb3.png)
+
+![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/model2_lb3.png)
+
+![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/model3_lb3.png)
+
+![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/model4_lb4.png)
+
+.rsf [файл](https://github.com/MuhinaAlexandra/Lab2018/blob/master/LABA3GITHUB.rsf)
+
+ERD диаграмма:
+
+![none](https://github.com/MuhinaAlexandra/Lab2018/blob/master/ERD.png)
