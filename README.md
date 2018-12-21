@@ -137,4 +137,4 @@ ERD диаграмма:
   - представление подписанного титульного листа в бумажном виде
   
   
-  [КУРСАЧ](https://github.com/MuhinaAlexandra/Lab2018/blob/master/Kursach%20MUHINA_A_E%20IDB-15-13%20TOCHNO_ONO.docx)
+  [КУРСОВА](https://github.com/MuhinaAlexandra/Lab2018/blob/master/Kursach%20MUHINA_A_E%20IDB-15-13%20TOCHNO_ONO.docx)
